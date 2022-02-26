@@ -1,0 +1,23 @@
+{
+  "name": "@thinkdeep/attach-exit-handler",
+  "version": "1.0.0",
+  "description": "Attaches exit handling callback to termination signals.",
+  "main": "attach-exit-handler.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkDeepTech/attach-exit-handler.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Hayden McParlane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinkDeepTech/attach-exit-handler/issues"
+  },
+  "homepage": "https://github.com/ThinkDeepTech/attach-exit-handler#readme"
+}
